@@ -183,7 +183,7 @@ Shows the workload per staff member across departments.
 
 ### Dashboard Preview
 
-![Hospital Resource Allocation Dashboard](images/hospital_resource_dashboard.png)
+![Hospital Resource Allocation Dashboard](hospital_resource_dashboard.png)
 
 ---
 
